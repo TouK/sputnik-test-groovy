@@ -26,7 +26,7 @@ class Foo {
             case 0: println "Zero"; break
             case 1: println "One"; break
             case 2: println "Two"; break
-            case 2: println "Another two, hm ...."; break
+            case 2: println "Another two, hm ..."; break
             default: println "Other numbers but not 0, 1 or 2"; break
         }
     }
